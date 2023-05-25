@@ -5,3 +5,4 @@ vendor/**
 local.mk
 logs/**
 !.gitkeep
+*.log
