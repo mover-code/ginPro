@@ -13,7 +13,7 @@ chain:
   Contract: 0xdead
 
 mysql:
-  DataSource: atlpMint:2hzNjMW2ihfJw5K6@tcp(43.206.21.236:3306)/atlpmint?charset=utf8mb4&parseTime=true&loc=Asia%2FShanghai
+  DataSource: ***
   MaxIdleCount: 5
   MaxOpenCount: 200
   MaxLifeTime: 3600
